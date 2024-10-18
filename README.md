@@ -13,7 +13,7 @@ projectRoot/
             +-- main.ts
         +-- vite.config.ts
     +-- backend/
-        +-- app.py
+        +-- main.py
 ```
 
 ## Vue frontend setup
